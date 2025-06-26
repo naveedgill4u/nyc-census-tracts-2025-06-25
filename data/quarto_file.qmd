@@ -31,3 +31,5 @@ ggplot(x_clean, aes(x = med_income, y = race, fill = race)) +
   theme(legend.position = "none")
 ```
 
+
+
